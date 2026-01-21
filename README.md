@@ -373,7 +373,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - [@Rishurajgautam](https://linktr.ee/rishurajgautam)
+Rishu Raj Gautam - [@Rishurajgautam](https://linktr.ee/rishurajgautam)
 
 Project Link: [https://github.com/Rishurajgautam/python-project-setup](https://github.com/Rishurajgautam/python-project-setup)
 

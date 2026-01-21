@@ -373,9 +373,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - [@Rishurajgautam](https://linktr.ee/rishurajgautam)
 
-Project Link: [https://github.com/yourusername/python-project-setup](https://github.com/yourusername/python-project-setup)
+Project Link: [https://github.com/Rishurajgautam/python-project-setup](https://github.com/Rishurajgautam/python-project-setup)
 
 ---
 
